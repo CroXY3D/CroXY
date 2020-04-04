@@ -3,22 +3,23 @@ Croxy is a Crossed Gantry 3D Printer.  Pronounced "Crock-see".
 
 CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with three ball screws.
 
-It is a ground up design, based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
-
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.  Print quality is superb.
 
-This is an ALPHA release.  The printer has been assembled and is printing.  Plan is to move it to under the Annex Engineering umbrella upon BETA.
+It is a ground up design, based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
+
+This is an ALPHA release.  The printer has been assembled and is printing with excellent print quality.  Plan is to move it to under the Annex Engineering umbrella upon BETA.
 
 # Major features of CroXY
   - 3030 and 3060 frame members for stiffness and ease of assembly
   - Crossed rail gantry design with 4 motors driving 9mm XY belts
   - Triple SFU1204 ball screw driven Z for automatic bed levelling
-  - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple
-  - Linear Rails are all MGN12
-  - Bed 6mm Mic6 and is kinematically mounted with Maxwell joints preloaded by magnets.  Thicker beds are possible.
+  - Linear Rails are all MGN12H
+  - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
+  - Bed is 6mm Mic6 and is kinematically mounted with Maxwell joints preloaded by magnets.  Thicker beds are possible.
   - Hemera Direct Drive E3D Extruder (it is compatabile with Annex Engineering K1/K2 printheads)
   - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing
   - Dedicated area for nozzle purge and wipe 
+  - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple
   - Duet2 or Duet3 electronics with Reprap firmware 2 or 3.  Klipper support is planned
   - Built in drawer for tools and or a spool that feeds the extruder
   - Feet with sorbothane vibration isolation.
@@ -39,11 +40,11 @@ This is an ALPHA release.  The printer has been assembled and is printing.  Plan
   - Exhaust Fan and control
   - Some trim pieces
   - Wiring diagram
-  - Publish RRF config files.
   
   
 # BOM  
-A CroXY build will cost approx $1300 with budget rails.  A first class build with Misumi stainless steel rails will run around $2500.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
+A CroXY build will cost approx $1300 with budget rails.  A first class build with Misumi rails will run around $2300.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
+Panels have not been specced or priced yet. That is the biggest missing piece from the BOM.
 
 # NOTES
 Fusion360 archives probably lag the state of the STLs.  Export of them is somwewhat painful, so I don't always do it.
