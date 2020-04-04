@@ -52,10 +52,9 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 # NOTES
 Fusion360 archives probably lag the state of the STLs.  Export of them is somwewhat painful, so I don't always do it.
 
-# PICS
-Video coming soon.
+# MEDIA
 
-
+  [Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
 
   ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Overall_View.png?raw=true)
   
