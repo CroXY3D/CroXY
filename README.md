@@ -56,7 +56,7 @@ Fusion360 archives probably lag the state of the STLs.  Export of them is somwew
 Video coming soon.
 
 
-  
+
   ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Overall_View.png?raw=true)
   
   ![Image of Printhead](https://github.com/wesc23/CroXY/blob/master/Images/Printhead.png?raw=true)
