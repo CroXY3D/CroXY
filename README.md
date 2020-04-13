@@ -4,7 +4,7 @@ Croxy is a Crossed Gantry 3D Printer.  Pronounced "Crock-see".
 CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with three ball screws.
 
   
-![Image of CroXY](https://raw.githubusercontent.com/wesc23/CroXY/master/Images/Overall_View_Small.png?raw=true)
+ ![Small Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Overall_View_Small.png?raw=true)
   
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.  Print quality is superb.
 
@@ -52,12 +52,11 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 # NOTES
 Fusion360 archives probably lag the state of the STLs.  Export of them is somwewhat painful, so I don't always do it.
 
-# PICS
-Video coming soon.
+# MEDIA
 
+  [Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
 
-  
-  ![Image of CroXY](https://raw.githubusercontent.com/wesc23/CroXY/master/Images/Overall_View.png?raw=true)
+  ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Overall_View.png?raw=true)
   
   ![Image of Printhead](https://github.com/wesc23/CroXY/blob/master/Images/Printhead.png?raw=true)
   
