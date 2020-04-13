@@ -1,4 +1,4 @@
-
+M290 S0	R0				; remove baby stepping
 M400
 
 ; Home X at the high end of the axis'''

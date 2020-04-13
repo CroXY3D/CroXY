@@ -57,7 +57,7 @@ M92 X160:160 Y160:160 Y400:400 Z1600:1600:1600 E818    	; Steps/mmm
 ; * SPEED, ACCEL and JERK
 ; **************************************
 M203 X24000:24000 Y24000:24000  Z1000:1000:1000 E3600   ; Set maximum speeds (mm/min)  - keep in sync with macros/ZPostprint.g
-M201 X1872 Y1872 Z300:300:300 E1000		; Set Accel (mm^2/s)
+M201 X1300 Y1300 Z300:300:300 E1000		; Set Accel (mm^2/s)
 M566 X900:900 Y900:900 Z25:25:25 E12000 		; Set "Jerk" (mm/min)
 M593 F54	 			     ; wqs 49 Set Dynamic Acceleration Adjustment (freqency, avoid this when accelerating)
 M906 X1500 Y1500 Z1500 E1200  I25    ; Set motor currents (mA) and motor idle factor in per cent
@@ -75,14 +75,15 @@ M574 X2 Y2 S1                  ; Endstops X at High End, Y at High End, S=1 - Ac
 ; Z-Probe
 M558 P5 H13 F320 T12000  ; set Z probe type to switch and the dive height + speeds.
 ;M558 H3 ;*** Remove this line after delta calibration has been done and new delta parameters have been saved
-G31 P500 X-21.1 Y45.7 Z17.0 ; set Z probe trigger value, offset and trigger height
+G31 P500 X-21.1 Y45.7 Z17.04 ; set Z probe trigger value, offset and trigger height.  Higher numbers makes nozzle closer to bed
 M557 X-100:100 Y-100:100 S80 ; define mesh grid
 
 
 ; Define locations of 3 leadscrew pivots
 ; corner M671 X-25:294:134 Y-16:-16:340 S10  ; SXX is max to trim leadscrews to level
-;M671 X-165:154:-6 Y-156:-156:200 S1  ; SXX is max to trim leadscrews to level
-M671 X-6:156:156 Y0:-165:154		; BUG! these aren't correct.
+;M671 X-165:154:-6 Y-156:-156:200 S1.0  ; SXX is max to trim leadscrews to level
+
+M671 X-130:130:130 Y0:-115:115 S6
 
 ; Heaters
 ; Bed

@@ -9,7 +9,7 @@ import re
 bodyDict = {}
 
 def saveBodies(occ, exportMgr):
-    scriptDir = '/Users/wesc/Documents/3D Printing/CruXY/STLs' 
+    scriptDir = '/Users/wesc/Documents/3D Printing/CroXY/STLs' 
     app = adsk.core.Application.get()
     ui  = app.userInterface
     allBodies = occ.bRepBodies
