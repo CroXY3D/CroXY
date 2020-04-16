@@ -38,8 +38,9 @@ This is an ALPHA release.  The printer has been assembled and is printing with e
   - Motion is simple X motors move X, Y motors move Y, so troubleshooting is easier
   
 # Disadvantages of CroXY
-  - Requires 3 more rails and 2 more steppers/drivers.
+  - Requires 3 more rails and 2 more steppers/drivers than a CoreXY.
   - Visibility of the build area is lessened.  Though the printhead has been designed with nozzle visibility in mind.
+  - Toolchanging is more difficult, but it is possible.
   - Cost.  It's not a cheap build, but it is still within the price range of similar cube design printers.
   
 # Work to be done 
