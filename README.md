@@ -6,7 +6,7 @@ CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry d
   
  ![Small Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Overall_View_Small.png?raw=true)
   
-It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.  Print quality is superb.
+It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum. Print quality is superb.
 
 It is a ground up design, based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
 
@@ -27,22 +27,23 @@ This is an ALPHA release.  The printer has been assembled and is printing with e
   - Built in optional drawer for tools and or a spool that feeds the extruder
   - Feet with sorbothane vibration isolation.
   - Footprint comparable to other printers of same bed size.
-  - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be possible.  Further with planned MGN15 gantry mod.
-  - Minimal printed parts.  Most are designed to be easily machinable by aluminum for even more stiffness.
+  - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be easy.  
+  - MGN15 Gantry and 12mm belt mods in development will enable build sizes up to 500x500x500.
+  - Minimal printed parts.  Most are designed to be easily machinable by aluminum for even more stiffness.  Aluminum Z lifters are already designed.  Aluminum toolhead, XY motor base plates and XY carriages are also in development.
 
 # CroXY offers a number of advantages over CoreXY designs
   - Belts are shorter and have simple paths, alignment is easier and less ringing
-  - Less friction in motion system makes for more accurate positioning
+  - Less friction in motion system makes for more accurate positioning making for exceptional layer stacking.
   - 4 motors moving the XY gantry make for more torque for more accurate positioning (1.4x-4x more torque)
   - Motion is simple X motors move X, Y motors move Y, so troubleshooting is easier
   
 # Disadvantages of CroXY
   - Requires 3 more rails and 2 more steppers/drivers.
   - Visibility of the build area is lessened.  Though the printhead has been designed with nozzle visibility in mind.
+  - Cost.  It's not a cheap build, but it is still within the price range of similar cube design printers.
   
 # Work to be done 
   - Finish lid and enclosure, including front hinges
-  - Drawer slide mechanism
   - External insulated enclosure
   - Exhaust Fan and control
   - Some trim pieces
