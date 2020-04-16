@@ -18,13 +18,13 @@ This is an ALPHA release.  The printer has been assembled and is printing with e
   - Triple SFU1204 ball screw driven Z for automatic bed levelling
   - Linear Rails are all MGN12H
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
-  - Bed is 6mm Mic6 and is kinematically mounted with Maxwell joints preloaded by magnets.  Thicker beds are possible.
-  - Hemera Direct Drive E3D Extruder (it is compatabile with Annex Engineering K1/K2 printheads)
-  - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing
-  - Dedicated area for nozzle purge and wipe 
-  - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple
+  - Bed is 6mm Mic6 and is kinematically mounted with Kelvin kinematic joints preloaded by magnets.  Thicker beds are possible.
+  - Hemera Direct Drive E3D extruder toolhead
+  - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing.
+  - Dedicated area for nozzle purge and wipe. 
+  - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.
   - Duet2 or Duet3 electronics with Reprap firmware 2 or 3.  Klipper support is planned
-  - Built in optional drawer for tools and or a spool that feeds the extruder
+  - Built in optional drawer for tools and or a spool that feeds the extruder.  
   - Feet with sorbothane vibration isolation.
   - Footprint comparable to other printers of same bed size.
   - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be easy.  
