@@ -41,6 +41,7 @@ This is an ALPHA release.  The printer has been assembled and is printing with e
   - Requires 3 more rails and 2 more steppers/drivers than a CoreXY.
   - Visibility of the build area is lessened.  Though the printhead has been designed with nozzle visibility in mind.
   - Toolchanging is more difficult, but it is possible.
+  - Hemera toolhead is relatively heavy at 500g.  The benefits of direct drive extrusion vs bowden make it worth it.  CroXY's crossed rail design allows it to carry a heavier toolhead than other single rail gantry printers.
   - Cost.  It's not a cheap build, but it is still within the price range of similar cube design printers.
   
 # Work to be done 
