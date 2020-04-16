@@ -46,8 +46,10 @@ This is an ALPHA release.  The printer has been assembled and is printing with e
   
   
 # BOM  
-A CroXY build will cost approx $1300 with budget rails.  A first class build with Misumi rails will run around $2300.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
+A CroXY build will cost approx $1500 with budget rails.  A first class build with Misumi rails will run around $2500.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
 Panels have not been specced or priced yet. That is the biggest missing piece from the BOM.
+
+![Price Pie](https://github.com/wesc23/CroXY/blob/master/Images/Price_Pie.png?raw=true)
 
 # NOTES
 Fusion360 archives probably lag the state of the STLs.  Export of them is somwewhat painful, so I don't always do it.
