@@ -8,13 +8,13 @@ CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry d
   
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum. Print quality is superb.
 
-It is a ground up design, based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
+It is a ground up design, loosely based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
 
-This is an ALPHA release.  The printer has been assembled and is printing with excellent print quality.  Plan is to move it to under the Annex Engineering umbrella upon BETA.
+This is an BETA release.  The printer has been assembled and is printing with excellent print quality for three weeks now. No significant changes have been made to the printer in that time.
 
 # Major features of CroXY
   - 3030 and 3060 frame members for stiffness and ease of assembly
-  - Crossed rail gantry design with 4 motors driving 9mm XY belts
+  - Crossed rail gantry design with 4 motors driving 9mm or 12mm XY belts
   - Triple SFU1204 ball screw driven Z for automatic bed levelling
   - Linear Rails are all MGN12H
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
@@ -25,10 +25,11 @@ This is an ALPHA release.  The printer has been assembled and is printing with e
   - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.
   - Duet2 or Duet3 electronics with Reprap firmware 2 or 3.  Klipper support is planned
   - Built in optional drawer for tools and or a spool that feeds the extruder.  
+  - Breakaway XY rails to prevent bending them in the case of a head crash.
   - Feet with sorbothane vibration isolation.
   - Footprint comparable to other printers of same bed size.
   - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be easy.  
-  - MGN15 Gantry and 12mm belt mods in development will enable build sizes up to 500x500x500.
+  - MGN15 Gantry mod in development will enable build sizes up to 500x500x500.
   - Minimal printed parts.  Most are designed to be easily machinable by aluminum for even more stiffness.  Aluminum Z lifters are already designed.  Aluminum toolhead, XY motor base plates and XY carriages are also in development.
 
 # CroXY offers a number of advantages over CoreXY designs
