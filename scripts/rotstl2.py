@@ -39,7 +39,8 @@ def rotateSTLs(fileNamesYo, deleteFiles):
 				#print "asdasd"
 				#except
 					#stlMesh = mesh.Mesh.from_file(fileName,True, None,stl.Mode.ASCII)
-				strOut = fileName+":"
+				#strOut = fileName+":"
+				strOut = ""
 
 				if (rot == 'F'):
 					strOut += "Front Down"
@@ -64,10 +65,11 @@ def rotateSTLs(fileNamesYo, deleteFiles):
 
 				fileNameOutGroup = re.search('(.+?)-[FTBLRX]\.', fileName) 
 				fileNameOut = fileNameOutGroup.group(1) + ".stl"
-				strOut += " -> " + fileNameOut
+				#strOut += " -> " + fileNameOut
+				strOut = fileNameOut+": "+strOut
 				stlMesh.save(fileNameOut)
 				if deleteFiles:
-					strOut += ", "+fileName + " deleted."
+					#strOut += ", "+fileName + " deleted."
 					#print( fileName + " deleted."),
 					os.remove(fileName)
 				print strOut
