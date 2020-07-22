@@ -22,12 +22,11 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
   - Bed is 6mm Mic6 and is kinematically mounted with Kelvin kinematic joints preloaded by magnets.  Thicker beds are possible.
   - Hemera Direct Drive E3D extruder toolhead
-  - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing.
+  - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing.  Repeatibility of 0.005mm.
   - Dedicated area for nozzle purge and wipe. 
   - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.
   - Duet2 or Duet3 electronics with Reprap firmware 2 or 3.  Klipper support is planned
   - Built in optional drawer for tools and or a spool that feeds the extruder.  
-  - Breakaway XY rails to prevent bending them in the case of a head crash.
   - Feet with sorbothane vibration isolation.
   - Footprint comparable to other printers of same bed size.
   - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be easy.  
@@ -61,8 +60,8 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 
 ![Build Cost](https://github.com/wesc23/CroXY/blob/master/Images/Build_Cost.png?raw=true)
 
-# NOTES
-Fusion360 archives probably lag the state of the STLs.  Export of them is somwewhat painful, so I don't always do it.
+# FUSION 360
+[The current Fusion 360](https://a360.co/3gxpcK5).  CroXY is still in development and not everything is 100% complete.
 
 # MEDIA
 
