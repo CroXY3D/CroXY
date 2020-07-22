@@ -66,6 +66,7 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 # MEDIA
 
 [Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
+[Video of CroXY bed probiing and automatic bed levelling](https://www.youtube.com/watch?v=WyJbbjh8Hpk)
 
 ![IRL](https://github.com/wesc23/CroXY/blob/master/Images/IRL.jpg?raw=true)
 
