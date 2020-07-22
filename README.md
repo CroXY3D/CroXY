@@ -66,26 +66,22 @@ Fusion360 archives probably lag the state of the STLs.  Export of them is somwew
 
 # MEDIA
 
-  [Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
+[Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
 
-  ![IRL](https://github.com/wesc23/CroXY/blob/master/Images/IRL.jpg?raw=true)
+![IRL](https://github.com/wesc23/CroXY/blob/master/Images/IRL.jpg?raw=true)
 
-
-  ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY.png?raw=true)
+![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY.png?raw=true)
   
-  ![Image of CroXY XY Gantry](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
- 
-  ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Down.png?raw=true)
- 
- ![Image of CroXY Toolhead Up](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Up.png?raw=true)
-
-
-  ![Image of CroXY Z](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z.png?raw=true)
- 
- ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
-  
-  Crocodile Z lifters are optional!
-  
-  ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
-  
-  
+![Image of CroXY XY Gantry](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
+XY Gantry
+![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Down.png?raw=true)
+Toolhead
+![Image of CroXY Toolhead Up](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Up.png?raw=true)
+Toolhead
+![Image of CroXY Z](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z.png?raw=true)
+Z 
+![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
+Z Lifter with Maxwell Joint
+Crocodile Z lifters are optional!  
+![Image of CroXY Z Lifter Croc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
+   
