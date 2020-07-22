@@ -66,6 +66,7 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 # MEDIA
 
 [Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
+
 [Video of CroXY bed probiing and automatic bed levelling](https://www.youtube.com/watch?v=WyJbbjh8Hpk)
 
 ![IRL](https://github.com/wesc23/CroXY/blob/master/Images/IRL.jpg?raw=true)
@@ -73,15 +74,25 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
   
 ![Image of CroXY XY Gantry](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
+
 XY Gantry
+
 ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Down.png?raw=true)
+
 Toolhead
+
 ![Image of CroXY Toolhead Up](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Up.png?raw=true)
+
 Toolhead
+
 ![Image of CroXY Z](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z.png?raw=true)
+
 Z and Bed
+
 ![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
 
 Z Lifter with Maxwell Joint
+
 ![Image of CroXY Z Lifter Croc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
+
 Crocodile Z lifters are optional!    
