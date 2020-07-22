@@ -74,15 +74,15 @@ Fusion360 archives probably lag the state of the STLs.  Export of them is somwew
   ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY.png?raw=true)
   
   ![Image of CroXY XY Gantry](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
-  
-  ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXYToolhead_Down.png?raw=true)
- 
-  ![Image of CroXY Toolhead Up](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Up.png?raw=true)
  
   ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Down.png?raw=true)
+ 
+ ![Image of CroXY Toolhead Up](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Up.png?raw=true)
+
 
   ![Image of CroXY Z](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z.png?raw=true)
-  ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
+ 
+ ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
   
   Crocodile Z lifters are optional!
   
