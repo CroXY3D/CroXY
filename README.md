@@ -71,6 +71,8 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 
 ![IRL](https://github.com/wesc23/CroXY/blob/master/Images/IRL.jpg?raw=true)
 
+Older pic of CroXY
+
 ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
   
 ![Image of CroXY XY Gantry](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
