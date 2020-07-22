@@ -82,6 +82,5 @@ Toolhead
 Z 
 ![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
 Z Lifter with Maxwell Joint
-Crocodile Z lifters are optional!  
 ![Image of CroXY Z Lifter Croc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
-   
+Crocodile Z lifters are optional!    
