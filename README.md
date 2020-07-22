@@ -70,7 +70,7 @@ Fusion360 archives probably lag the state of the STLs.  Export of them is somwew
 
 ![IRL](https://github.com/wesc23/CroXY/blob/master/Images/IRL.jpg?raw=true)
 
-![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY.png?raw=true)
+![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
   
 ![Image of CroXY XY Gantry](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
 XY Gantry
