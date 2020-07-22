@@ -6,7 +6,7 @@ Designed and built by Wes Cherry (Ocho Camino, wesc@technosis.com)
 CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with three ball screws.
 
   
- ![Small Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Croxy Small.png?raw=true)
+ ![Small Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Croxy_Small.png?raw=true)
   
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum. Print quality is superb.
 
