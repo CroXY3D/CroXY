@@ -81,6 +81,7 @@ Toolhead
 ![Image of CroXY Z](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z.png?raw=true)
 Z and Bed
 ![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
+
 Z Lifter with Maxwell Joint
 ![Image of CroXY Z Lifter Croc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
 Crocodile Z lifters are optional!    
