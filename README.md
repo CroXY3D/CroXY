@@ -6,7 +6,7 @@ Designed and built by Wes Cherry (Ocho Camino, wesc@technosis.com)
 CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with three ball screws.
 
   
- ![Small Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Croxy Small.png?raw=true)
+ ![Small Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
   
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum. Print quality is superb.
 
@@ -68,8 +68,24 @@ Fusion360 archives probably lag the state of the STLs.  Export of them is somwew
 
   [Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
 
-  ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/Overall_View.png?raw=true)
-  
-  ![Image of Printhead](https://github.com/wesc23/CroXY/blob/master/Images/Printhead.png?raw=true)
-  
   ![IRL](https://github.com/wesc23/CroXY/blob/master/Images/IRL.jpg?raw=true)
+
+
+  ![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY.png?raw=true)
+  
+  ![Image of CroXY XY Gantry](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
+  
+  ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXYToolhead_Down.png?raw=true)
+ 
+  ![Image of CroXY Toolhead Up](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Up.png?raw=true)
+ 
+  ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Down.png?raw=true)
+
+  ![Image of CroXY Z](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z.png?raw=true)
+  ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
+  
+  Crocodile Z lifters are optional!
+  
+  ![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
+  
+  
