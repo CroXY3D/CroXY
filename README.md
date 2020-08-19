@@ -54,7 +54,7 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Wiring diagram
   
 # DISCORD
-We now have a ![Discord](https://discord.gg/ryj6wyx) to discuss CroXY!  
+We now have a [Discord](https://discord.gg/ryj6wyx) to discuss CroXY!  
   
   
 # BOM  
