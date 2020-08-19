@@ -53,6 +53,9 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Some trim pieces
   - Wiring diagram
   
+# DISCORD
+We now have a ![Discord](https://discord.gg/ryj6wyx) to discuss CroXY!  
+  
   
 # BOM  
 A CroXY build will cost approx $1500 with budget rails.  A first class build with Misumi rails will run around $2500.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
