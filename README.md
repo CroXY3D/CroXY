@@ -1,5 +1,5 @@
 # CroXY
-Croxy is a Crossed Gantry 3D Printer.  Pronounced "Crock-see".  
+CroXY is a Crossed Gantry 3D Printer.  Pronounced "Crock-see".  
 
 Designed and built by Wes Cherry (Ocho Camino, wesc@technosis.com)
 
@@ -15,23 +15,28 @@ It is a ground up design, loosely based on concepts from the [Annex Engineering 
 This is an BETA release.  The printer has been assembled and is printing with excellent print quality for three weeks now. No significant changes have been made to the printer in that time.
 
 # Major features of CroXY
-  - 3030 and 3060 frame members for stiffness and ease of assembly
+  - 3060 frame members for stiffness and ease of assembly
   - Crossed rail gantry design with 4 motors driving 9mm or 12mm XY belts
   - Triple SFU1204 ball screw driven Z for automatic bed levelling
-  - Linear Rails are all MGN12H
+  - Linear Rails are all MGN12H.  One of the rails can be backed by a 2020 extrusion for more rigidity.  Backing the other rail is possible.
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
-  - Bed is 6mm Mic6 and is kinematically mounted with Kelvin kinematic joints preloaded by magnets.  Thicker beds are possible.
+  - Bed is 6mm Mic6 and is kinematically mounted with Maxwell kinematic joints preloaded by magnets.  Thicker beds are possible.
   - Hemera Direct Drive E3D extruder toolhead
   - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing.  Repeatibility of 0.005mm.
+  - Simple, easily accessible belt tensioning.
   - Dedicated area for nozzle purge and wipe. 
-  - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.
-  - Duet2 or Duet3 electronics with Reprap firmware 2 or 3.  Klipper support is planned
+  - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.  They easily remove from the printer for bench work.
+  - Duet2 or Duet3 electronics with Reprap firmware 3.  Klipper support is planned
+  - Electronics are in the bottom of the machine, for easy access from above.  No flipping or rotating the machine to access the electronics.
+  - Nearly all wires are ran thru the center channel of 3060 extrusions for a clean looking machine.
   - Built in optional drawer for tools and or a spool that feeds the extruder.  
+  - Hour meter.
+  - LED status rings, similar to BLV MGN Cube.
   - Feet with sorbothane vibration isolation.
-  - Footprint comparable to other printers of same bed size.
-  - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be easy.  
+  - Footprint comparable to other printers of same bed size (Footprint is only 5% larger than that of a comparable print volume Railcore)
+  - Design is for 270x270x300 nominal size.  Up to 370x370x500 should be easy.  
   - MGN15 Gantry mod in development will enable build sizes up to 500x500x500.
-  - Minimal printed parts.  Most are designed to be easily machinable by aluminum for even more stiffness.  Aluminum Z lifters are already designed.  Aluminum toolhead, XY motor base plates and XY carriages are also in development.
+  - Minimal printed parts.  Most are designed to be easily machinable using 0.5" or 12mm thick aluminum for even more stiffness and use in high temp 3D printing.  Aluminum Z lifters are already designed and in use.  XY motor base plates are being fabricated and CAD work is done for the Hemera toolhead holder, Maxwell joints, and XY carriages.  All plastic parts aside from the fan manifold will eventually be made out of aluminum.
 
 # CroXY offers a number of advantages over CoreXY designs
   - Belts are shorter and have simple paths, alignment is easier and less ringing
@@ -48,6 +53,7 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   
 # Work to be done 
   - Finish lid and enclosure, including front hinges
+  - Aluminum parts
   - External insulated enclosure
   - Exhaust Fan and control
   - Some trim pieces
