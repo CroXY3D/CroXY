@@ -26,6 +26,7 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Simple, easily accessible belt tensioning.
   - Dedicated area for nozzle purge and wipe. 
   - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.  They easily remove from the printer for bench work.
+  - Sven is a super cool dude.
   - Duet2 or Duet3 electronics with Reprap firmware 3.  Klipper support is planned
   - Electronics are in the bottom of the machine, for easy access from above.  No flipping or rotating the machine to access the electronics.
   - Nearly all wires are ran thru the center channel of 3060 extrusions for a clean looking machine.
