@@ -49,16 +49,24 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Requires 3 more rails and 2 more steppers/drivers than a CoreXY.
   - Visibility of the build area is lessened.  Though the printhead has been designed with nozzle visibility in mind.
   - Toolchanging is more difficult, but it is possible.
-  - Hemera toolhead is relatively heavy at 500g.  The benefits of direct drive extrusion vs bowden make it worth it.  CroXY's crossed rail design allows it to carry a heavier toolhead than other single rail gantry printers.
+  - Hemera toolhead is relatively heavy at 500g.  The benefits of direct drive extrusion vs bowden make it worth it.  CroXY's crossed rail design allows it to carry a heavier toolhead than other single rail gantry printers.  A lightweight printhead based on the Derpa extruder is planned.
   - Cost.  It's not a cheap build, but it is still within the price range of similar cube design printers.
   
 # Work to be done 
   - Finish lid and enclosure, including front hinges
-  - Aluminum parts
+  - Aluminum parts (many are done!)
   - External insulated enclosure
   - Exhaust Fan and control
   - Some trim pieces
   - Wiring diagram
+  - Chamber heater
+  
+# Caveats
+CroXY is an advanced build.  You should only attempt to build it if you have successfully built another kit printer.  Building that will give you a lot of experience so you don't make mistakes with CroXY.  
+
+Croxy is a ever growing experimental project. Although the existing machines work and work well, there is no guarantee that yours will. These are homemade machines built by different people, with differing parts. We help where we can, but in the end this is a hobby and we are hobbiests.
+
+A lot of people ask about doing a large format version, with a bed larger than 350mx350.  This is uncharted territory and may result in a printer that only performs well printing slowly with low acceleration.  Doing massive prints will take forever.  That said, I have ordered the parts to build a 300x500 CroXY and will be attempting to make something that works well.
   
 # DISCORD
 We now have a [Discord](https://discord.gg/ryj6wyx) to discuss CroXY!  
