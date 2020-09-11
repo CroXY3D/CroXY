@@ -15,9 +15,10 @@ It is a ground up design, loosely based on concepts from the [Annex Engineering 
 This is an BETA release.  The printer has been assembled and is printing with excellent print quality for three weeks now. No significant changes have been made to the printer in that time.
 
 # Major features of CroXY
-  - 3060 frame members for stiffness and ease of assembly
-  - Crossed rail gantry design with 4 motors driving 9mm or 12mm XY belts
-  - Triple SFU1204 ball screw driven Z for automatic bed levelling
+  - 3060 frame members for stiffness and ease of assembly.
+  - Crossed rail gantry design with 4 motors driving 9mm or 12mm XY belts.
+  - Triple SFU1204 ball screw driven Z for automatic bed levelling.
+  - TR8x4 Leadscrews for Z supported in budget build.
   - Linear Rails are all MGN12H.  One of the rails can be backed by a 2020 extrusion for more rigidity.  Backing the other rail is possible.
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
   - Bed is 6mm Mic6 and is kinematically mounted with Maxwell kinematic joints preloaded by magnets.  Thicker beds are possible.
@@ -66,7 +67,7 @@ CroXY is an advanced build.  You should only attempt to build it if you have suc
 
 Croxy is a ever growing experimental project. Although the existing machines work and work well, there is no guarantee that yours will. These are homemade machines built by different people, with differing parts. We help where we can, but in the end this is a hobby and we are hobbiests.
 
-A lot of people ask about doing a large format version, with a bed larger than 350mx350.  This is uncharted territory and may result in a printer that only performs well printing slowly with low acceleration.  Doing massive prints will take forever.  That said, I have ordered the parts to build a 300x500 CroXY and will be attempting to make something that works well.
+A lot of people ask about doing a large format version, with a bed larger than 350x350.  This is uncharted territory and may result in a printer that only performs well printing slowly with low acceleration.  Doing massive prints will take forever.  That said, I have ordered the parts to build a 300x500 CroXY and will be attempting to make something that works well.
   
 # DISCORD
 We now have a [Discord](https://discord.gg/ryj6wyx) to discuss CroXY!  
