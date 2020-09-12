@@ -10,9 +10,9 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'/Users/wesc/Documents/3D Printing/CroXY/STPs/Z/Maxwell_Vee_Block_3_Al
-u.stp',
-/* time_stamp */ '2020-09-11T20:35:51-07:00',
+'/Users/wesc/Documents/3D Printing/CroXY/STPs/Z/Magnet_Vee_Block_Alumi
+num_3.stp',
+/* time_stamp */ '2020-08-19T21:31:26-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -557,18 +557,19 @@ SOLID_ANGLE_UNIT()
 #510=PRODUCT_DEFINITION_SHAPE('',$,#513);
 #511=SHAPE_REPRESENTATION('',(#292),#504);
 #512=PRODUCT_DEFINITION_CONTEXT('part definition',#517,'design');
-#513=PRODUCT_DEFINITION('STP:Z/Maxwell_Vee_Block_3_Alu',
-'STP:Z/Maxwell_Vee_Block_3_Alu',#514,#512);
+#513=PRODUCT_DEFINITION('STP:Z/Magnet_Vee_Block_Aluminum_3',
+'STP:Z/Magnet_Vee_Block_Aluminum_3',#514,#512);
 #514=PRODUCT_DEFINITION_FORMATION('',$,#519);
-#515=PRODUCT_RELATED_PRODUCT_CATEGORY('STP:Z/Maxwell_Vee_Block_3_Alu',
-'STP:Z/Maxwell_Vee_Block_3_Alu',(#519));
+#515=PRODUCT_RELATED_PRODUCT_CATEGORY(
+'STP:Z/Magnet_Vee_Block_Aluminum_3','STP:Z/Magnet_Vee_Block_Aluminum_3',
+(#519));
 #516=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#517);
 #517=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #518=PRODUCT_CONTEXT('part definition',#517,'mechanical');
-#519=PRODUCT('STP:Z/Maxwell_Vee_Block_3_Alu',
-'STP:Z/Maxwell_Vee_Block_3_Alu',$,(#518));
+#519=PRODUCT('STP:Z/Magnet_Vee_Block_Aluminum_3',
+'STP:Z/Magnet_Vee_Block_Aluminum_3',$,(#518));
 #520=PRESENTATION_STYLE_ASSIGNMENT((#522));
 #521=PRESENTATION_STYLE_ASSIGNMENT((#523));
 #522=SURFACE_STYLE_USAGE(.BOTH.,#524);
