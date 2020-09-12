@@ -27,7 +27,7 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Simple, easily accessible belt tensioning.
   - Dedicated area for nozzle purge and wipe. 
   - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.  They easily remove from the printer for bench work.
-  - Sven is a super cool dude.
+  - Ballscrew or leadscrew wobble is completely eliminated by Magneham joints
   - Duet2 or Duet3 electronics with Reprap firmware 3.  Klipper support is planned
   - Electronics are in the bottom of the machine, for easy access from above.  No flipping or rotating the machine to access the electronics.
   - Nearly all wires are ran thru the center channel of 3060 extrusions for a clean looking machine.
@@ -112,8 +112,6 @@ Z and Bed
 
 ![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
 
-Z Lifter with Maxwell Joint
+Z Lifter with Maxwell Joint and Magneham 
 
-![Image of CroXY Z Lifter Croc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_Croc.png?raw=true)
 
-Crocodile Z lifters are optional!    
