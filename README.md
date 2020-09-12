@@ -79,8 +79,8 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 
 ![Build Cost](https://github.com/wesc23/CroXY/blob/master/Images/Build_Cost.png?raw=true)
 
-# FUSION 360
-[The current Fusion 360 CAD Files](https://a360.co/3gxpcK5).  CroXY is still in development and not everything is 100% complete.
+# SOURCE FILES
+CroXY is fully open source with .STP files provided.  Please check the license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) before modifying or deriving from CroXY.  Commercial use or sale of CroXY derived designs is prohibited without approval.
 
 # MEDIA
 
