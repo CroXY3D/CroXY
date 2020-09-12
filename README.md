@@ -12,7 +12,7 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
 
 It is a ground up design, loosely based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
 
-The printer has been assembled and is printing with excellent print quality for many months now.  It is in active development with new toolheads and several optimizations planned.
+The printer has been assembled and is printing with excellent print quality for many months now.  It is in active development with new toolheads and several optimizations planned. 
 
 # Major features of CroXY
   - 3060 frame members for stiffness and ease of assembly.
