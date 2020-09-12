@@ -19,7 +19,7 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Crossed rail gantry design with 4 motors driving 9mm or 12mm XY belts.
   - Triple SFU1204 ball screw driven Z for automatic bed levelling.
   - TR8x4 Leadscrews for Z supported in budget build.
-  - Linear Rails are all MGN12H.  One of the rails can be backed by a 2020 extrusion for more rigidity.  Backing the other rail is possible.
+  - Linear Rails are all MGN12H.  Both rails are backed by a 1515 extrusion for more rigidity.  The top rail can be backed by larger extrusions.
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
   - Bed is 6mm Mic6 and is kinematically mounted with Maxwell kinematic joints preloaded by magnets.  Thicker beds are possible.
   - Hemera Direct Drive E3D extruder toolhead
@@ -27,10 +27,10 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Simple, easily accessible belt tensioning.
   - Dedicated area for nozzle purge and wipe. 
   - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.  They easily remove from the printer for bench work.
-  - Ballscrew or leadscrew wobble is completely eliminated by Magneham joints
+  - Ballscrew or leadscrew wobble is completely eliminated by Magneham joints.  
   - Duet2 or Duet3 electronics with Reprap firmware 3.  Klipper support is planned
   - Electronics are in the bottom of the machine, for easy access from above.  No flipping or rotating the machine to access the electronics.
-  - Nearly all wires are ran thru the center channel of 3060 extrusions for a clean looking machine.
+  - Nearly all wires are run thru the center channel of 3060 extrusions for a clean looking machine.
   - Built in optional drawer for tools and or a spool that feeds the extruder.  
   - Hour meter.
   - LED status rings, similar to BLV MGN Cube.
@@ -62,7 +62,7 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Wiring diagram
   - Chamber heater
   
-# Caveats
+# CAVEATS
 CroXY is an advanced build.  You should only attempt to build it if you have successfully built another kit printer.  Building that will give you a lot of experience so you don't make mistakes with CroXY.  
 
 Croxy is a ever growing experimental project. Although the existing machines work and work well, there is no guarantee that yours will. These are homemade machines built by different people, with differing parts. We help where we can, but in the end this is a hobby and we are hobbiests.
