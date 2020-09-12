@@ -116,6 +116,6 @@ Z Lifter with Maxwell Joint and Magneham.
 
 ![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_No_Magneham.png?raw=true)
 
-There's also an option with no Magneham that saves 3 MGN12 cars from BOM cost.
+There's also an option with no Magneham that saves 3 MGN12 cars from BOM cost. 
 
 
