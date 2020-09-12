@@ -12,7 +12,7 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
 
 It is a ground up design, loosely based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
 
-This is an BETA release.  The printer has been assembled and is printing with excellent print quality for three weeks now. No significant changes have been made to the printer in that time.
+The printer has been assembled and is printing with excellent print quality for many months now.  It is in active development with new toolheads and several optimizations planned.
 
 # Major features of CroXY
   - 3060 frame members for stiffness and ease of assembly.
@@ -22,7 +22,7 @@ This is an BETA release.  The printer has been assembled and is printing with ex
   - Linear Rails are all MGN12H.  Both rails are backed by a 1515 extrusion for more rigidity.  The top rail can be backed by larger extrusions.
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
   - Bed is 6mm Mic6 and is kinematically mounted with Maxwell kinematic joints preloaded by magnets.  Thicker beds are possible.
-  - Hemera Direct Drive E3D extruder toolhead
+  - Hemera Direct Drive E3D extruder toolhead.
   - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing.  Repeatibility of 0.005mm.
   - Simple, easily accessible belt tensioning.
   - Dedicated area for nozzle purge and wipe. 
@@ -112,6 +112,10 @@ Z and Bed
 
 ![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
 
-Z Lifter with Maxwell Joint and Magneham.  There's also an option with no Magneham that saves 3 MGN12 cars from BOM cost.
+Z Lifter with Maxwell Joint and Magneham.  
+
+![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_No_Magneham.png?raw=true)
+
+There's also an option with no Magneham that saves 3 MGN12 cars from BOM cost.
 
 
