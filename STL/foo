@@ -1,10 +1,11 @@
-Electronics
-Helpers
-Misc
-Probe
-Tool_Hemera
-XY
-Z
-foo
-ignore.stl
-rot.sh
+total 16
+drwxr-xr-x   7 wesc  staff  224 Sep 12 12:20 Electronics
+drwxr-xr-x  10 wesc  staff  320 Sep 12 12:20 Helpers
+drwxr-xr-x  16 wesc  staff  512 Sep 12 12:20 Misc
+drwxr-xr-x   4 wesc  staff  128 Sep 12 12:20 Probe
+drwxr-xr-x   8 wesc  staff  256 Sep 12 12:20 Tool_Hemera
+drwxr-xr-x  13 wesc  staff  416 Sep 12 12:20 XY
+drwxr-xr-x  10 wesc  staff  320 Sep 12 12:20 Z
+-rw-r--r--   1 wesc  staff    0 Sep 12 14:24 foo
+-rw-r--r--@  1 wesc  staff  684 Sep 12 12:29 ignore.stl
+-rwxr-xr-x@  1 wesc  staff   76 Sep 12 14:20 rot.sh
