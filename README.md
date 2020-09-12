@@ -12,7 +12,7 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
 
 It is a ground up design, loosely based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
 
-The printer has been assembled and is printing with excellent print quality for many months now.  It is in active development with new toolheads and several optimizations planned.
+The printer has been assembled and is printing with excellent print quality for many months now.  It is in active development with new toolheads and several optimizations planned. 
 
 # Major features of CroXY
   - 3060 frame members for stiffness and ease of assembly.
@@ -79,8 +79,8 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 
 ![Build Cost](https://github.com/wesc23/CroXY/blob/master/Images/Build_Cost.png?raw=true)
 
-# FUSION 360
-[The current Fusion 360 CAD Files](https://a360.co/3gxpcK5).  CroXY is still in development and not everything is 100% complete.
+# SOURCE FILES
+CroXY is fully open source with .STP files provided.  Please check the license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) before modifying or deriving from CroXY.  Commercial use or sale of CroXY derived designs is prohibited without approval.
 
 # MEDIA
 
@@ -116,6 +116,6 @@ Z Lifter with Maxwell Joint and Magneham.
 
 ![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_No_Magneham.png?raw=true)
 
-There's also an option with no Magneham that saves 3 MGN12 cars from BOM cost.
+There's also an option with no Magneham that saves 3 MGN12 cars from BOM cost. 
 
 
