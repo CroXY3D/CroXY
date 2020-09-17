@@ -10,16 +10,16 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'/Users/wesc/Documents/3D Printing/CroXY/STPs/XY/A-X_Carriage_Block_2-
-B.stp',
-/* time_stamp */ '2020-09-12T12:07:22-07:00',
+'/Users/wesc/Documents/3D Printing/CroXY/STP/XY/A-X_Carriage_Block_2-B.
+stp',
+/* time_stamp */ '2020-09-16T20:17:47-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
 /* originating_system */ 'Autodesk Translation Framework v9.3.0.1241',
 /* authorisation */ '');
 
-FILE_SCHEMA (('CONFIG_CONTROL_DESIGN','AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
+FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
 ENDSEC;
 
 DATA;
