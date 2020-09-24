@@ -11,8 +11,8 @@ FILE_DESCRIPTION(
 FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3D Printing/CroXY/STP/XY/B-Y_Carriage_Cap_1215_
-2-B.stp',
-/* time_stamp */ '2020-09-23T19:48:34-07:00',
+2-F.stp',
+/* time_stamp */ '2020-09-24T11:40:56-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -27,7 +27,7 @@ DATA;
 #11=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#1647,#12);
 #12=ADVANCED_BREP_SHAPE_REPRESENTATION('',(#14),#1639);
 #13=STYLED_ITEM('',(#1657),#14);
-#14=MANIFOLD_SOLID_BREP('STL:XY/B-Y_Carriage_Cap_1215_2-B',#968);
+#14=MANIFOLD_SOLID_BREP('STL:XY/B-Y_Carriage_Cap_1215_2-F',#968);
 #15=CYLINDRICAL_SURFACE('',#1004,3.25);
 #16=CYLINDRICAL_SURFACE('',#1009,3.25);
 #17=CYLINDRICAL_SURFACE('',#1014,3.25);
