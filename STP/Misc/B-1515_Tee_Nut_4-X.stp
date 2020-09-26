@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3D Printing/CroXY/STP//Misc/B-1515_Tee_Nut_4-X.
 stp',
-/* time_stamp */ '2020-09-16T20:41:40-07:00',
+/* time_stamp */ '2020-09-25T18:36:51-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -4117,13 +4117,13 @@ SOLID_ANGLE_UNIT()
 #3173=SHAPE_REPRESENTATION('',(#1264,#1376),#3161);
 #3174=SHAPE_REPRESENTATION('',(#1265),#3162);
 #3175=PRODUCT_DEFINITION_CONTEXT('part definition',#3183,'design');
-#3176=PRODUCT_DEFINITION('1515 Tee Nuts','1515 Tee Nuts v1',#3178,#3175);
+#3176=PRODUCT_DEFINITION('1515 Tee Nuts','1515 Tee Nuts v2',#3178,#3175);
 #3177=PRODUCT_DEFINITION('M3 Hex Nut Dupe for 1515 Tee Nuts',
 'M3 Hex Nut Dupe for 1515 Tee Nuts v1',#3179,#3175);
 #3178=PRODUCT_DEFINITION_FORMATION('',$,#3185);
 #3179=PRODUCT_DEFINITION_FORMATION('',$,#3186);
-#3180=PRODUCT_RELATED_PRODUCT_CATEGORY('1515 Tee Nuts v1',
-'1515 Tee Nuts v1',(#3185));
+#3180=PRODUCT_RELATED_PRODUCT_CATEGORY('1515 Tee Nuts v2',
+'1515 Tee Nuts v2',(#3185));
 #3181=PRODUCT_RELATED_PRODUCT_CATEGORY(
 'M3 Hex Nut Dupe for 1515 Tee Nuts v1',
 'M3 Hex Nut Dupe for 1515 Tee Nuts v1',(#3186));
@@ -4132,7 +4132,7 @@ SOLID_ANGLE_UNIT()
 #3183=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #3184=PRODUCT_CONTEXT('part definition',#3183,'mechanical');
-#3185=PRODUCT('1515 Tee Nuts','1515 Tee Nuts v1',$,(#3184));
+#3185=PRODUCT('1515 Tee Nuts','1515 Tee Nuts v2',$,(#3184));
 #3186=PRODUCT('M3 Hex Nut Dupe for 1515 Tee Nuts',
 'M3 Hex Nut Dupe for 1515 Tee Nuts v1',$,(#3184));
 #3187=PRESENTATION_STYLE_ASSIGNMENT((#3190));

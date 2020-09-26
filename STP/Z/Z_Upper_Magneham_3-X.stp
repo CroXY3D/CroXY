@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3D Printing/CroXY/STP/Z/Z_Upper_Magneham_3-X.st
 p',
-/* time_stamp */ '2020-09-12T12:19:23-07:00',
+/* time_stamp */ '2020-09-25T18:35:42-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -461,9 +461,9 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 #121=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#119,#4607);
 #122=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Component1:1','Component1:1',
 'Component1:1',#4613,#4614,'Component1:1');
-#123=NEXT_ASSEMBLY_USAGE_OCCURRENCE('#410-002 Ball Stud v3:7',
-'#410-002 Ball Stud v3:7','#410-002 Ball Stud v3:7',#4612,#4613,
-'#410-002 Ball Stud v3:7');
+#123=NEXT_ASSEMBLY_USAGE_OCCURRENCE('#410-002 Ball Stud v3:4',
+'#410-002 Ball Stud v3:4','#410-002 Ball Stud v3:4',#4612,#4613,
+'#410-002 Ball Stud v3:4');
 #124=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#4610,#126);
 #125=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#4608,#127);
 #126=ADVANCED_BREP_SHAPE_REPRESENTATION('',(#130),#4594);
