@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3D Printing/CroXY/STP/Z/B-Z_No_Magneham_3-B.stp',
 
-/* time_stamp */ '2020-09-25T18:36:50-07:00',
+/* time_stamp */ '2020-10-15T13:38:24-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -8663,16 +8663,16 @@ SOLID_ANGLE_UNIT()
 #8080=PRODUCT_DEFINITION_SHAPE('',$,#8083);
 #8081=SHAPE_REPRESENTATION('',(#3604),#8073);
 #8082=PRODUCT_DEFINITION_CONTEXT('part definition',#8087,'design');
-#8083=PRODUCT_DEFINITION('Z No Magneham','Z No Magneham v4',#8084,#8082);
+#8083=PRODUCT_DEFINITION('Z No Magneham','Z No Magneham v6',#8084,#8082);
 #8084=PRODUCT_DEFINITION_FORMATION('',$,#8089);
-#8085=PRODUCT_RELATED_PRODUCT_CATEGORY('Z No Magneham v4',
-'Z No Magneham v4',(#8089));
+#8085=PRODUCT_RELATED_PRODUCT_CATEGORY('Z No Magneham v6',
+'Z No Magneham v6',(#8089));
 #8086=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#8087);
 #8087=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #8088=PRODUCT_CONTEXT('part definition',#8087,'mechanical');
-#8089=PRODUCT('Z No Magneham','Z No Magneham v4',$,(#8088));
+#8089=PRODUCT('Z No Magneham','Z No Magneham v6',$,(#8088));
 #8090=PRESENTATION_STYLE_ASSIGNMENT((#8092));
 #8091=PRESENTATION_STYLE_ASSIGNMENT((#8093));
 #8092=SURFACE_STYLE_USAGE(.BOTH.,#8094);
