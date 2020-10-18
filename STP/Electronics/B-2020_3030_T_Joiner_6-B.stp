@@ -10,9 +10,9 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'/Users/wesc/Documents/3D Printing/CroXY/STP/Electronics/B-2020_3030_J
-oiner_6-B.stp',
-/* time_stamp */ '2020-10-17T16:05:14-07:00',
+'/Users/wesc/Documents/3D Printing/CroXY/STP/Electronics/B-2020_3030_T
+_Joiner_6-B.stp',
+/* time_stamp */ '2020-10-17T16:05:45-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -27,7 +27,7 @@ DATA;
 #11=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#2013,#12);
 #12=ADVANCED_BREP_SHAPE_REPRESENTATION('',(#14),#2005);
 #13=STYLED_ITEM('',(#2023),#14);
-#14=MANIFOLD_SOLID_BREP('STL:Electronics/B-2020_3030_Joiner_6-B',#1096);
+#14=MANIFOLD_SOLID_BREP('STL:Electronics/B-2020_3030_T_Joiner_6-B',#1096);
 #15=TOROIDAL_SURFACE('',#1143,3.15,0.4);
 #16=TOROIDAL_SURFACE('',#1160,3.15,0.4);
 #17=TOROIDAL_SURFACE('',#1162,0.8,0.4);
