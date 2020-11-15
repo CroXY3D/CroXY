@@ -10,9 +10,9 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'/Users/wesc/Documents/3DPrinting/CroXY/STP/XY/MGN12_32_1515/A-X_Carri
-age_MGN12_1515_2-B.stp',
-/* time_stamp */ '2020-11-15T12:52:51-08:00',
+'/Users/wesc/Documents/3DPrinting/CroXY/STP/XY/MGN12_32_1515/B-XY_Carr
+iage_Cap_MGN12_1515_4-B.stp',
+/* time_stamp */ '2020-11-15T12:51:50-08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -32,7 +32,7 @@ DATA;
 #15=MANIFOLD_SOLID_BREP(
 'STL:XY/MGN12_32_1515/A-X_Carriage_MGN12_1515_2-B',#3408);
 #16=MANIFOLD_SOLID_BREP(
-'STL:XY/MGN12_32_1515/B-XY_Carriage_Cap_MGN12_1515_4-F',#3409);
+'STL:XY/MGN12_32_1515/B-XY_Carriage_Cap_MGN12_1515_4-B',#3409);
 #17=CONICAL_SURFACE('',#3726,0.85,1.02974425867665);
 #18=CONICAL_SURFACE('',#3730,0.85,1.02974425867665);
 #19=CONICAL_SURFACE('',#3733,2.5,0.785398163397448);
