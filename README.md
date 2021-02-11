@@ -6,7 +6,7 @@ Designed and built by Wes Cherry (Ocho Camino, wesc@technosis.com)
 CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with three ball screws.  It incorporates unique Magneham joints that decouple leadscrew wobble from the print.
 
   
- ![Small Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
+ ![Small Image of CroXY](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
   
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum. Print quality is superb.
 
@@ -88,33 +88,33 @@ CroXY is fully open source with .STP files provided.  Please check the license (
 
 [Video of CroXY bed probiing and automatic bed levelling](https://www.youtube.com/watch?v=WyJbbjh8Hpk)
 
-![IRL](https://github.com/wesc23/CroXY/blob/master/Images/IRL.jpg?raw=true)
+![IRL](https://github.com/CroXY3D/CroXY/blob/master/Images/IRL.jpg?raw=true)
 
 Older picture of CroXY.  It currently looks like the renderings IRL.
 
-![Image of CroXY](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
+![Image of CroXY](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
   
-![Image of CroXY XY Gantry](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
+![Image of CroXY XY Gantry](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_XYGantry.png?raw=true)
 
 XY Gantry
 
-![Image of CroXY Toolhead Down](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Down.png?raw=true)
+![Image of CroXY Toolhead Down](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Toolhead_Down.png?raw=true)
 
 Toolhead
 
-![Image of CroXY Toolhead Up](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Toolhead_Up.png?raw=true)
+![Image of CroXY Toolhead Up](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Toolhead_Up.png?raw=true)
 
 Toolhead
 
-![Image of CroXY Z](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z.png?raw=true)
+![Image of CroXY Z](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Z.png?raw=true)
 
 Z and Bed
 
-![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
+![Image of CroXY Z Lifter NoCroc](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
 
 Z Lifter with Maxwell Joint and Magneham.  
 
-![Image of CroXY Z Lifter NoCroc](https://github.com/wesc23/CroXY/blob/master/Images/CroXY_Z_Lifter_No_Magneham.png?raw=true)
+![Image of CroXY Z Lifter NoCroc](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Z_Lifter_No_Magneham.png?raw=true)
 
 There's also an option with no Magneham that saves 3 MGN12 cars from BOM cost. 
 
