@@ -12,11 +12,11 @@ FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3DPrinting/CroXY/ALU/Z/Lower_Magneham_Alu_3.stp',
 
-/* time_stamp */ '2020-11-25T14:54:53-08:00',
+/* time_stamp */ '2021-01-27T09:23:50-08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
-/* originating_system */ 'Autodesk Translation Framework v9.3.0.1241',
+/* originating_system */ 'Autodesk Translation Framework v9.7.0.1280',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -872,7 +872,7 @@ DATA;
 #818,#819,#820,#821,#822,#823,#824,#825,#826,#827,#828,#829,#830,#831,#832,
 #833));
 #835=DERIVED_UNIT_ELEMENT(#837,1.);
-#836=DERIVED_UNIT_ELEMENT(#1530,3.);
+#836=DERIVED_UNIT_ELEMENT(#1530,-3.);
 #837=(
 MASS_UNIT()
 NAMED_UNIT(*)

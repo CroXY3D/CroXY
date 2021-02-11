@@ -12,11 +12,11 @@ FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3DPrinting/CroXY/STP/Z/A-Maxwell_Vee_Constraine
 d-F.stp',
-/* time_stamp */ '2020-11-25T14:54:52-08:00',
+/* time_stamp */ '2021-01-27T09:23:49-08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
-/* originating_system */ 'Autodesk Translation Framework v9.3.0.1241',
+/* originating_system */ 'Autodesk Translation Framework v9.7.0.1280',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -2092,9 +2092,9 @@ REPRESENTATION_ITEM('')
 #1734=CLOSED_SHELL('',(#1725,#1726,#1727));
 #1735=CLOSED_SHELL('',(#1728,#1729,#1730));
 #1736=DERIVED_UNIT_ELEMENT(#1740,1.);
-#1737=DERIVED_UNIT_ELEMENT(#4262,3.);
+#1737=DERIVED_UNIT_ELEMENT(#4262,-3.);
 #1738=DERIVED_UNIT_ELEMENT(#1740,1.);
-#1739=DERIVED_UNIT_ELEMENT(#4262,3.);
+#1739=DERIVED_UNIT_ELEMENT(#4262,-3.);
 #1740=(
 MASS_UNIT()
 NAMED_UNIT(*)
