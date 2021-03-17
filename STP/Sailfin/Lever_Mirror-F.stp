@@ -12,11 +12,12 @@ FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3DPrinting/CroXY/STP/Sailfin/Lever_Mirror-F.stp',
 
-/* time_stamp */ '2021-02-10T19:58:46-08:00',
+/* time_stamp */ '2021-03-16T22:56:22-06:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
-/* originating_system */ 'Autodesk Translation Framework v9.7.0.1280',
+/* originating_system */ 'Autodesk Translation Framework v9.10.0.1330',
+
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
