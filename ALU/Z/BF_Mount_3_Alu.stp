@@ -11,11 +11,12 @@ FILE_DESCRIPTION(
 FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3DPrinting/CroXY/ALU/Z/BF_Mount_3_Alu.stp',
-/* time_stamp */ '2021-01-27T09:23:50-08:00',
+/* time_stamp */ '2021-04-08T12:13:11-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
-/* originating_system */ 'Autodesk Translation Framework v9.7.0.1280',
+/* originating_system */ 'Autodesk Translation Framework v9.10.0.1330',
+
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));

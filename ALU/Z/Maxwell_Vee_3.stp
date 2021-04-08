@@ -11,11 +11,12 @@ FILE_DESCRIPTION(
 FILE_NAME(
 /* name */ 
 '/Users/wesc/Documents/3DPrinting/CroXY/ALU/Z/Maxwell_Vee_3.stp',
-/* time_stamp */ '2020-11-25T15:01:02-08:00',
+/* time_stamp */ '2021-04-08T12:14:21-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
-/* originating_system */ 'Autodesk Translation Framework v9.3.0.1241',
+/* originating_system */ 'Autodesk Translation Framework v9.10.0.1330',
+
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -244,7 +245,7 @@ DATA;
 #229=CLOSED_SHELL('',(#217,#218,#219,#220,#221,#222,#223,#224,#225,#226,
 #227,#228));
 #230=DERIVED_UNIT_ELEMENT(#232,1.);
-#231=DERIVED_UNIT_ELEMENT(#403,3.);
+#231=DERIVED_UNIT_ELEMENT(#403,-3.);
 #232=(
 MASS_UNIT()
 NAMED_UNIT(*)
