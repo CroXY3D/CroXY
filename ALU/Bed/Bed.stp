@@ -9,12 +9,13 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ '/Users/wesc/Documents/3D Printing/CroXY/ALU/Bed/Bed.stp',
-/* time_stamp */ '2020-10-15T15:41:07-07:00',
+/* name */ '/Users/wesc/Documents/3DPrinting/CroXY/ALU/Bed/Bed.stp',
+/* time_stamp */ '2022-01-27T11:37:19-08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
-/* originating_system */ 'Autodesk Translation Framework v9.3.0.1241',
+/* originating_system */ 'Autodesk Translation Framework v10.13.0.1454',
+
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -266,7 +267,7 @@ DATA;
 #252=CLOSED_SHELL('',(#239,#240,#241,#242,#243,#244,#245,#246,#247,#248,
 #249,#250,#251));
 #253=DERIVED_UNIT_ELEMENT(#255,1.);
-#254=DERIVED_UNIT_ELEMENT(#442,3.);
+#254=DERIVED_UNIT_ELEMENT(#442,-3.);
 #255=(
 MASS_UNIT()
 NAMED_UNIT(*)
