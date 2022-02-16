@@ -65,7 +65,7 @@ CroXY is an advanced build.  You should only attempt to build it if you have suc
 
 Croxy is a ever growing experimental project. Although the existing machines work and work well, there is no guarantee that yours will. These are homemade machines built by different people, with differing parts. We help where we can, but in the end this is a hobby and we are hobbiests.
 
-A lot of people ask about doing a large format version, with a bed larger than 500x500.  This is uncharted territory and may result in a printer that only performs well printing slowly with low acceleration.  Doing massive prints will take forever.  That said, I have ordered the parts to build a 300x500 CroXY and will be attempting to make something that works well.
+A lot of people ask about doing a large format version, with a bed larger than 500x500.  This is uncharted territory. However, I expect CroXY with 25mm rail backers will perform quite well in these larger builds.
   
 # DISCORD
 We now have a [Discord](https://discord.gg/ryj6wyx) to discuss CroXY!  
@@ -81,6 +81,8 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 CroXY is fully open source with .STP files provided.  Please check the license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) before modifying or deriving from CroXY.  Commercial use or sale of CroXY derived designs is prohibited without approval.
 
 # MEDIA
+
+The images are quite old.  Will update soon.
 
 [Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
 
