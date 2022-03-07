@@ -3,7 +3,7 @@ CroXY is a Crossed Gantry 3D Printer.  Pronounced "Crock-see".
 
 Designed and built by Wes Cherry (Ocho Camino, wesc@technosis.com)
 
-CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with three ball screws.  It incorporates unique Magneham joints that decouple leadscrew wobble from the print.
+CroXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with reduced triple belt drive. 
 
   
  ![Small Image of CroXY](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Small.png?raw=true)
@@ -12,23 +12,22 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
 
 It is a ground up design, loosely based on concepts from the Annex Engineering K2 and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
 
-The printer has been assembled and is printing with excellent print quality for many months now.  It is in active development with new toolheads and several optimizations planned. 
+The printer has been assembled and is printing with excellent print quality for a couple years now.  It is in active development with new toolheads and several optimizations planned. 
 
 # Major features of CroXY
   - 3060 frame members for stiffness and ease of assembly.
   - Crossed rail gantry design with 4 motors driving 9mm or 12mm XY belts.
-  - Triple SFU1204 ball screw driven Z for automatic bed levelling.
-  - TR8x4 Leadscrews for Z supported in budget build.
-  - Linear Rails are all MGN12H.  Both rails are backed by a 1515 extrusion for more rigidity.  The top rail can be backed by larger extrusions.
+  - Triple 4:1 9mm belt driven Z for automatic bed levelling.
+  - Linear Rails except the cross rails are MGN12H. 
+  - Cross rails are MGN9H for less moving mass.  Both cross rails are backed by either 2020 extruions, 20mm aluminum extrusions or 20mm carbon fiber tubes.  25mm aluminum or carbon fiber tubes are recommended for larger builds for more stiffness.  Rails on the side of the extrusion (vs the top) provide the maximal ringing resistance because the rail plus backer acts like a single much thicker element.  Extensive FEA simulations have been performed on the gantry.
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
-  - Bed is 6mm Mic6 and is kinematically mounted with Maxwell kinematic joints preloaded by magnets.  Thicker beds are possible.
-  - Hemera Direct Drive E3D extruder toolhead.
-  - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing.  Repeatibility of 0.005mm.
+  - Bed is 6 to 12mm Mic6 and is kinematically mounted with Maxwell kinematic joints preloaded by magnets. 
+  - LGX Lite direct drive extruder with Dragon hot end.
+  - Magnetically coupled switch based probe (Euclid) picked up from a dock for super accurate bed probing.  Repeatibility of 0.005mm.
   - Simple, easily accessible belt tensioning.
   - Dedicated area for nozzle purge and wipe. 
-  - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple.  They easily remove from the printer for bench work.
-  - Ballscrew or leadscrew wobble is completely eliminated by Magneham joints.  
-  - Duet2 or Duet3 electronics with Reprap firmware 3.  Klipper support is planned
+  - Z Towers are built on a single 3060 extrusion.  They easily remove from the printer for bench work.
+  - BTT Octopus, Fysetc Spyder with Klipper, Duet2 or Duet3 electronics with Reprap firmware 3.
   - Electronics are in the bottom of the machine, for easy access from above.  No flipping or rotating the machine to access the electronics.
   - Nearly all wires are run thru the center channel of 3060 extrusions for a clean looking machine.
   - Built in optional drawer for tools and or a spool that feeds the extruder.  
@@ -36,12 +35,12 @@ The printer has been assembled and is printing with excellent print quality for 
   - LED status rings, similar to BLV MGN Cube.
   - Feet with sorbothane vibration isolation.
   - Footprint comparable to other printers of same bed size (Footprint is only 5% larger than that of a comparable print volume Railcore)
-  - Design is for 270x270x300 nominal size.  Up to 370x370x500 should be easy.  
-  - MGN15 Gantry mod in development will enable build sizes up to 500x500x500.
-  - Minimal printed parts.  Most are designed to be easily machinable using 0.5" or 12mm thick aluminum for even more stiffness and use in high temp 3D printing.  Aluminum Z lifters are already designed and in use.  XY motor base plates are being fabricated and CAD work is done for the Hemera toolhead holder, Maxwell joints, and XY carriages.  All plastic parts aside from the fan manifold will eventually be made out of aluminum.
+  - CAD is for 250x250x250 nominal size.  CroXYs as small as 190^3 and as large as 500x350x350 have been built. 
+  - Minimal printed parts.  Most are designed to be easily machinable using 0.5" or 12mm thick aluminum for even more stiffness and use in high temp 3D printing.  Aluminum Extrusion Z lifters are already designed and in use.  XY motor base plates are being fabricated and CAD work is done for the Hemera toolhead holder, Maxwell joints, and XY carriages.  All plastic parts aside from the fan manifold will eventually be made out of aluminum.
 
 # CroXY offers a number of advantages over CoreXY designs
   - Belts are shorter and have simple paths, alignment is easier and less ringing
+  - Belts can be as wide as 12mm for more accurate positioning and less ringing.
   - Less friction in motion system makes for more accurate positioning making for exceptional layer stacking.
   - 4 motors moving the XY gantry make for more torque for more accurate positioning (1.4x-4x more torque)
   - Motion is simple X motors move X, Y motors move Y, so troubleshooting is easier
@@ -50,7 +49,6 @@ The printer has been assembled and is printing with excellent print quality for 
   - Requires 3 more rails and 2 more steppers/drivers than a CoreXY.
   - Visibility of the build area is lessened.  Though the printhead has been designed with nozzle visibility in mind.
   - Toolchanging is more difficult, but it is possible.
-  - Hemera toolhead is relatively heavy at 500g.  The benefits of direct drive extrusion vs bowden make it worth it.  CroXY's crossed rail design allows it to carry a heavier toolhead than other single rail gantry printers.  A lightweight printhead based on the Derpa extruder is planned.
   - Cost.  It's not a cheap build, but it is still within the price range of similar cube design printers.
   
 # Work to be done 
@@ -67,7 +65,7 @@ CroXY is an advanced build.  You should only attempt to build it if you have suc
 
 Croxy is a ever growing experimental project. Although the existing machines work and work well, there is no guarantee that yours will. These are homemade machines built by different people, with differing parts. We help where we can, but in the end this is a hobby and we are hobbiests.
 
-A lot of people ask about doing a large format version, with a bed larger than 350x350.  This is uncharted territory and may result in a printer that only performs well printing slowly with low acceleration.  Doing massive prints will take forever.  That said, I have ordered the parts to build a 300x500 CroXY and will be attempting to make something that works well.
+A lot of people ask about doing a large format version, with a bed larger than 500x500.  This is uncharted territory. However, I expect CroXY with 25mm rail backers will perform quite well in these larger builds.
   
 # DISCORD
 We now have a [Discord](https://discord.gg/ryj6wyx) to discuss CroXY!  
@@ -83,6 +81,8 @@ Panels have not been specced or priced yet. That is the biggest missing piece fr
 CroXY is fully open source with .STP files provided.  Please check the license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) before modifying or deriving from CroXY.  Commercial use or sale of CroXY derived designs is prohibited without approval.
 
 # MEDIA
+
+The images are quite old.  Will update soon.
 
 [Video of CroXY](https://youtu.be/Kx4VfzS_V6c)
 
@@ -112,10 +112,5 @@ Z and Bed
 
 ![Image of CroXY Z Lifter NoCroc](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Z_Lifter_NoCroc.png?raw=true)
 
-Z Lifter with Maxwell Joint and Magneham.  
-
-![Image of CroXY Z Lifter NoCroc](https://github.com/CroXY3D/CroXY/blob/master/Images/CroXY_Z_Lifter_No_Magneham.png?raw=true)
-
-There's also an option with no Magneham that saves 3 MGN12 cars from BOM cost. 
 
 
