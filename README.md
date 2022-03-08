@@ -22,7 +22,7 @@ The printer has been assembled and is printing with excellent print quality for 
   - Cross rails are MGN9H for less moving mass.  Both cross rails are backed by either 2020 extruions, 20mm aluminum extrusions or 20mm carbon fiber tubes.  25mm aluminum or carbon fiber tubes are recommended for larger builds for more stiffness.  Rails on the side of the extrusion (vs the top) provide the maximal ringing resistance because the rail plus backer acts like a single much thicker element.  Extensive FEA simulations have been performed on the gantry.  1515 gantry backer support was dropped because it is far too flexible.
   - Fully Enclosed, with option for 20mm of insulation.  Printer functions fully without panels for materials that do not require insulation.   
   - Bed is 6 to 12mm cast aluminum and is kinematically mounted with Maxwell kinematic joints preloaded by magnets. 
-  - LGX Lite direct drive extruder with Dragon hot end.  Rapido is also supported.
+  - LGX Lite direct drive extruder with Dragon hot end.  Rapido is also supported.  Part cooling is done with dual 5015 or 5020 fans.
   - Magnetically coupled switch based probe (Euclid) picked up from a dock for super accurate bed probing.  Repeatibility of nearly 0.001mm.
   - Simple, easily accessible belt tensioning.
   - Dedicated area for nozzle purge and wipe. 
