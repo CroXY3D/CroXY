@@ -72,9 +72,9 @@ def rotateSTLs(fileNamesYo, deleteFiles):
 					#strOut += ", "+fileName + " deleted."
 					#print( fileName + " deleted."),
 					os.remove(fileName)
-				print strOut
+				print (strOut)
 			except:
-				print "Internal Error"
+				print ("Internal Error")
 		except :
 			# No Rotation specified
 			#print fileName + ":(No Rotation)"
