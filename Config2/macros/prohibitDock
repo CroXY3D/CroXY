@@ -1,1 +1,0 @@
-M208 X-125 Y-130 Z0 S1 ; set axis minima. setting xMin to -130 causes probe to jump out because nobody knows how magnets work
